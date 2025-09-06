@@ -8,9 +8,9 @@
 https://docs.google.com/document/u/0/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic#heading=h.pxcur8v2qagu
 
 
-### 
+### Microsoft/Azure AI guide
 
-
+https://github.com/microsoft/generative-ai-for-beginners
 
 
 
