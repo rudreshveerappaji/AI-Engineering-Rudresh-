@@ -7,6 +7,10 @@
 
 https://docs.google.com/document/u/0/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic#heading=h.pxcur8v2qagu
 
+### Real examples
+https://youtu.be/Bx4BYXOE9SQ?si=N194kgcyhDTi-3cX
+<transcript from comments>
+
 
 ### Microsoft/Azure AI guide
 
